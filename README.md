@@ -5,3 +5,5 @@ First line for first commit.
 Second line from Explorer.
 
 third line added from explorer!!
+
+added test.c 
